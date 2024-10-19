@@ -24,7 +24,7 @@ public class TestAPI {
 
     @GetMapping("/")
     public String prueba() {
-        return "Hola mundo";
+        return "Hola mundo xd";
     }
 
 
