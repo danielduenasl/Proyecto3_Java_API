@@ -1,5 +1,6 @@
 package miumg.edu.gt.Project3.Models;
 
+
 public class User {
 
 	private int idUser;
