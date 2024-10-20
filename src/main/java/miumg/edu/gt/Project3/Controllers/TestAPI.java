@@ -20,7 +20,10 @@ public class TestAPI {
     List<testModel> ListModel = new ArrayList<>();
     
     
-
+    @GetMapping("/Create")
+    public String pruebaa() {
+        return "test creado con exito";
+    }
 
     @GetMapping("/")
     public String prueba() {
